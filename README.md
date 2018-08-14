@@ -18,8 +18,10 @@ This lab is meant to be instructor-led.  That is, the instructor will explain th
 > <img src="/img/Create_Project.png" border="5"/>
 
 ### Lab 1: Build, Save and Test SparkML Models (Jupyter/Python)
-1. Open the project you just created. 
-2. Navigate to **Assets** view and open **TelcoChurn_SparkML** *Jupyter* notebook. This notebook has been implemented for the Python 2.7 runtime. You can verify the runtime by running the first cell in the notebook. 
+1. Click on **Assets**. 
+> <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/NavigateToAssets.png"/>
+2. Click on **TelcoChurn_SparkML** to open the *Jupyter* notebook. This notebook has been implemented for the Python 2.7 runtime. You can verify the runtime by running the first cell in the notebook. 
+> <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/OpenTelcoChurn_SparkML.png"/>
 3. Follow instructions in the notebook.
 
 Review:
