@@ -13,6 +13,7 @@ This lab is meant to be instructor-led.  That is, the instructor will explain th
 1. Rename the downloaded **DSX_Demos.zip** file and give it a unique name.  For example, add your initials (i.e. DSX_Demos_BLB.zip).    *Note: Project names in DSX Local cluster must be unique. When we create a project "from file", the project name is inherited from the file name*.
 2. Click on https://169.60.117.67/#/?_k=ugwvld to log in to DSX Local.
 3. Select "New Project" and select "From File".
+![WelcomeScreen].(/img/Welcome%20%Screen.png?raw=true).
 4. Browse to the .zip file and click **Create**.
 ![ProjectFromFile](/img/CreateProjectFromFile.png?raw=true).
 
