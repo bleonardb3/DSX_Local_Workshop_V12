@@ -14,9 +14,8 @@ This lab is meant to be instructor-led.  That is, the instructor will explain th
 2. Click on https://169.60.117.67/#/?_k=ugwvld to log in to DSX Local. Enter Username and Password, and then click **Sign In**
 3. Click **New Project**.
 > <img src="/img/Welcome_Screen.png"/>
-4. Select "From File".
-5. Browse to the **.zip file** (the DSX_Demos zip file that you renamed above) and click **Create**.
-![ProjectFromFile](/img/CreateProjectFromFile.png?raw=true).
+4. Select "From File", browse to the **.zip file** (the DSX_Demos zip file that you renamed above) and click **Open**. Then click **Create**.
+![ProjectFromFile](/img/Create_Project.png?raw=true).
 
 ### Lab 1: Build, Save and Test SparkML Models (Jupyter/Python)
 1. Open the project you just created. 
