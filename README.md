@@ -10,12 +10,12 @@ This lab is meant to be instructor-led.  That is, the instructor will explain th
 3. Download [DSX_Demos.zip](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/DSX%20Local%20Projects/DSX_Demos.zip?raw=true).
 
 ### Setting up lab projects in DSX Local
-1. Rename the downloaded **DSX_Demos.zip** file and give it a unique name.  For example, add your initials (i.e. DSX_Demos_BLB.zip).    *Note: Project names in DSX Local cluster must be unique. When we create a project "from file", the project name is inherited from the file name*.
-2. Click on https://169.60.117.67/#/?_k=ugwvld to log in to DSX Local.
+1. Rename the downloaded **DSX_Demos.zip** file and give it a unique name.  For example, add your initials (i.e. DSX_Demos_BB.zip).    *Note: Project names in DSX Local cluster must be unique. When we create a project "from file", the project name is inherited from the file name*.
+2. Click on https://169.60.117.67/#/?_k=ugwvld to log in to DSX Local. Enter Username and Password, and then click **Sign In**
 3. Click **New Project**.
 > <img src="/img/Welcome_Screen.png"/>
 4. Select "From File".
-5. Browse to the .zip file and click **Create**.
+5. Browse to the **.zip file** (the DSX_Demos zip file that you renamed above) and click **Create**.
 ![ProjectFromFile](/img/CreateProjectFromFile.png?raw=true).
 
 ### Lab 1: Build, Save and Test SparkML Models (Jupyter/Python)
