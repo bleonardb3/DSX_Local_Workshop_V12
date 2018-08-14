@@ -15,7 +15,7 @@ This lab is meant to be instructor-led.  That is, the instructor will explain th
 3. Click **New Project**.
 > <img src="/img/Welcome_Screen.png"/>
 4. Select "From File", browse to the **.zip file** (the DSX_Demos zip file that you renamed above) and click **Open**. Then click **Create**.
-![ProjectFromFile](/img/Create_Project.png?raw=true).
+> <img src="/img/Create_Project.png" border="5"/>
 
 ### Lab 1: Build, Save and Test SparkML Models (Jupyter/Python)
 1. Open the project you just created. 
