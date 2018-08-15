@@ -71,9 +71,9 @@ Goals:
 
 5. Click **Advanced Settings** and change the name of the script. For example, you can name it ChurnModelEvalScript. Click Save.
 6. Click **Generate evaluation Script**.
-7. Click **Run now** and wait till the status changes to Success.
-8. Scroll down to review the results.<br/>
+7. Click **Run now**, scroll down and wait till the status changes to Success. ,br/>
 ![model_eval_job_results](/img/model_eval_job_results.png?raw=true)
+8. Navigate to the **Models** section of the project and click into the **Telco_Churn_ML_model** to see the evaluation results. 
 
 ### Lab 4: Deploy Project into Production -- review [DSX_Deployment.pdf](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/DSX_Deployment.pdf)
 1. You must have completed Lab 1, Lab 7 and Lab 8 before working through this lab.
