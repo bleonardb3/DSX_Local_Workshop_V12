@@ -136,16 +136,16 @@ Goals:
 2. Introduction to Watson Machine Learning
 3. Optional: Refine Data (?)
 
-### Lab 6: SPSS Modeler in DSX -- consider changing for Lab in Lab Instructions
+### Lab 7: SPSS Modeler in DSX -- consider changing for Lab in Lab Instructions
 1. Follow the instructions in Lab Instructions/SPSS_Modeler_in_DSXL.pdf
 
 Goals:
 1. Introduction to SPSS Modeler
 
-### Lab 7: Data Refinery 
+### Lab 8: Data Refinery 
 
 
-### Lab 8: Build R models in Jupyter and deploy into Shiny App
+### Lab 9: Build R models in Jupyter and deploy into Shiny App
 1. Follow the instructions in Lab Instructions/R_in_DSXL.pdf
 
 Review:
@@ -164,11 +164,11 @@ Goals:
 5. Publishing to Shiny
 
 
-### Lab 9: DSXL Data Sources
+### Lab 10: DSXL Data Sources
 
 1. Follow the instructions in Lab Instructions/DSXL_DataSources.pdf
 
-### Lab 10: Build, Save and Test Scikit-Learn Models (Jupyter/Python)
+### Lab 11: Build, Save and Test Scikit-Learn Models (Jupyter/Python)
 1. Navigate to **Assets** view and open **CreditCardDefault_SkLearn** notebook.  
 2. Follow instructions in the notebook.
 
