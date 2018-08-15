@@ -40,64 +40,7 @@ Goals:
 5. Test model via REST
 6. Note notebook is still running
 
-### Lab 2: Build, Save and Test Scikit-Learn Models (Jupyter/Python)
-1. Navigate to **Assets** view and open **CreditCardDefault_SkLearn** notebook.  
-2. Follow instructions in the notebook.
-
-Review:
-1. Jupyter magics (i.e. %brunel, %matplotlib)
-
-Goals:
-1. Note faster notebook start time
-2. %brunel cells
-
-### Lab 3: Build, Save and Test SparkML models (Zeppelin/Python)
-1. Navigate to **Assets** view and open **TelcoChurn_Zeppelin** notebook.  
-2. Follow instructions in the notebook.
-
-Review:
-1. Interpreter bindings
-2. Running paragraphs 
-3. Zeppelin magics
-4. Graph interactions
-
-Goals:
-1. Note multiple interpreters
-2. Multiple magics i.e. %sql, %spark.pyspark
-
-### Lab 4: Build R models in Jupyter and deploy into Shiny App
-1. Follow the instructions in Lab Instructions/R_in_DSXL.pdf
-
-Review:
-1. Jupyter notebook but R
-2. system() calls -- underlying filesystem
-3. Running RStudio
-4. Publishing to Shiny server (unique name!)
-5. Content visibility
-6. Permalink (please save this when shown)
-
-Goals:
-1. R notebook
-2. Loading R libraries
-3. Saving model to RStudio File System (this will NOT show in Models view)
-4. RStudio / Shiny
-5. Publishing to Shiny
-
-### Lab 5: Watson Machine Learning
-1. Follow the instructions in Lab Instructions/WatsonMachineLearning.pdf
-
-Goals:
-1. Uploading Data Sets
-2. Introduction to Watson Machine Learning
-3. Optional: Refine Data (?)
-
-### Lab 6: SPSS Modeler in DSX -- consider changing for Lab in Lab Instructions
-1. Follow the instructions in Lab Instructions/SPSS_Modeler_in_DSXL.pdf
-
-Goals:
-1. Introduction to SPSS Modeler
-
-### Lab 7: Create Batch Script and Test Batch Scoring
+### Lab 2: Create Batch Script and Test Batch Scoring
 1. You must have completed "Lab 1: Build, Save and Test SparkML Models" before working through this lab.
 2. Navigate the to the **Models** section of the project and click into the saved **Telco_Churn_ML_model**.
 3. Click the **Batch score** tab.
@@ -119,7 +62,7 @@ Review:
 Goals:
 1. Introduction to batch scoring
 
-### Lab 8: Create Model Evaluation Script and Test Evaluation
+### Lab 3: Create Model Evaluation Script and Test Evaluation
 1. You must have completed "Lab 1: Build, Save and Test SparkML Models" before working through this lab.
 2. Navigate the to the **Models** section of the project and click into the saved **Telco_Churn_ML_model**.
 3. Click the **Evaluate** tab.
@@ -132,7 +75,7 @@ Goals:
 8. Scroll down to review the results.<br/>
 ![model_eval_job_results](/img/model_eval_job_results.png?raw=true)
 
-### Lab 9: Deploy Project into Production -- review DSX_Deployment.pdf in Lab Instructions
+### Lab 4: Deploy Project into Production -- review DSX_Deployment.pdf in Lab Instructions
 1. You must have completed Lab 1, Lab 7 and Lab 8 before working through this lab.
 2. Navigate to the top of the project assets page and click **Commit and push**.<br/>
 ![commit_push](/img/commit_push.png?raw=true)
@@ -170,9 +113,71 @@ Launching the release will:
 
 19. When all the deployments are enabled, click on any of the deployments and test them either with an API call or run a batch job on demand.
 
-### Lab 10: DSXL Data Sources
+
+### Lab 5: Build, Save and Test SparkML models (Zeppelin/Python)
+1. Navigate to **Assets** view and open **TelcoChurn_Zeppelin** notebook.  
+2. Follow instructions in the notebook.
+
+Review:
+1. Interpreter bindings
+2. Running paragraphs 
+3. Zeppelin magics
+4. Graph interactions
+
+Goals:
+1. Note multiple interpreters
+2. Multiple magics i.e. %sql, %spark.pyspark
+
+### Lab 6: Watson Machine Learning
+1. Follow the instructions in Lab Instructions/WatsonMachineLearning.pdf
+
+Goals:
+1. Uploading Data Sets
+2. Introduction to Watson Machine Learning
+3. Optional: Refine Data (?)
+
+### Lab 6: SPSS Modeler in DSX -- consider changing for Lab in Lab Instructions
+1. Follow the instructions in Lab Instructions/SPSS_Modeler_in_DSXL.pdf
+
+Goals:
+1. Introduction to SPSS Modeler
+
+### Lab 7: Data Refinery 
+
+
+### Lab 8: Build R models in Jupyter and deploy into Shiny App
+1. Follow the instructions in Lab Instructions/R_in_DSXL.pdf
+
+Review:
+1. Jupyter notebook but R
+2. system() calls -- underlying filesystem
+3. Running RStudio
+4. Publishing to Shiny server (unique name!)
+5. Content visibility
+6. Permalink (please save this when shown)
+
+Goals:
+1. R notebook
+2. Loading R libraries
+3. Saving model to RStudio File System (this will NOT show in Models view)
+4. RStudio / Shiny
+5. Publishing to Shiny
+
+
+### Lab 9: DSXL Data Sources
 
 1. Follow the instructions in Lab Instructions/DSXL_DataSources.pdf
+
+### Lab 10: Build, Save and Test Scikit-Learn Models (Jupyter/Python)
+1. Navigate to **Assets** view and open **CreditCardDefault_SkLearn** notebook.  
+2. Follow instructions in the notebook.
+
+Review:
+1. Jupyter magics (i.e. %brunel, %matplotlib)
+
+Goals:
+1. Note faster notebook start time
+2. %brunel cells
 
 
 
