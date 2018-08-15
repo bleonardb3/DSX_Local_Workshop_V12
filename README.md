@@ -52,7 +52,7 @@ Goals:
 
 ![batchscoring](/img/batch_scoring.png?raw=true)
 
-9. Click **Run now** and wait till the status changes to Success.
+9. Click **Run now**,scroll to the bottom and wait till the status of the job changes to Success.
 10. Verify that the *new_customers_scores.csv* is in the data section of the project.
 
 Review:
