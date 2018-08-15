@@ -75,7 +75,7 @@ Goals:
 8. Scroll down to review the results.<br/>
 ![model_eval_job_results](/img/model_eval_job_results.png?raw=true)
 
-### Lab 4: Deploy Project into Production -- review DSX_Deployment.pdf in Lab Instructions
+### Lab 4: Deploy Project into Production -- review [DSX_Deployment.pdf](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/DSX_Deployment.pdf)
 1. You must have completed Lab 1, Lab 7 and Lab 8 before working through this lab.
 2. Navigate to the top of the project assets page and click **Commit and push**.<br/>
 ![commit_push](/img/commit_push.png?raw=true)
