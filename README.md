@@ -137,14 +137,14 @@ Goals:
 3. Optional: Refine Data (?)
 
 ### Lab 7: SPSS Modeler in DSX -- consider changing for Lab in Lab Instructions
-1. Follow the instructions in [SPSS Modeler](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/titanic-spss-modeler-edits-local-1.pdf) 
+1. Follow the instructions in [SPSS Modeler](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/titanic-spss-modeler-edits-local-1.pdf). 
 Note you will need to click on the Download button to download the instructions to your machine. Otherwise the hyperlinks in the document will not work. 
 
 Goals:
 1. Introduction to SPSS Modeler
 
 ### Lab 8: Data Refinery 
-1. Follow the instructions in [Data Refinery](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/Data%20Refinery%20Lab_Local_v1.pdf)
+1. Follow the instructions in [Data Refinery](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/Data%20Refinery%20Lab_Local_v1.pdf).
 Note you will need to click on the Download button to download the instructions to your machine. Otherwise the hyperlinks in the document will not work. 
 
 
