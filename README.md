@@ -129,7 +129,7 @@ Goals:
 2. Multiple magics i.e. %sql, %spark.pyspark
 
 ### Lab 6: Watson Machine Learning
-1. Follow the instructions in Lab Instructions/WatsonMachineLearning.pdf
+1. Follow the instructions in [Watson Model Builder](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/WatsonMachineLearning.pdf). Note you will need to click on the Download button to download the instructions to your machine. Otherwise the hyperlinks in the doucment will not work. 
 
 Goals:
 1. Uploading Data Sets
