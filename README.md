@@ -137,12 +137,13 @@ Goals:
 3. Optional: Refine Data (?)
 
 ### Lab 7: SPSS Modeler in DSX -- consider changing for Lab in Lab Instructions
-1. Follow the instructions in Lab Instructions/SPSS_Modeler_in_DSXL.pdf
+1. Follow the instructions in [SPSS Modeler](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/titanic-spss-modeler-edits-local-1.pdf)
 
 Goals:
 1. Introduction to SPSS Modeler
 
 ### Lab 8: Data Refinery 
+1. Follow the instructions in [Data Refinery](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/Data%20Refinery%20Lab_Local_v1.pdf)
 
 
 ### Lab 9: Build R models in Jupyter and deploy into Shiny App
