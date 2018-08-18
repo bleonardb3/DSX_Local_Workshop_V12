@@ -113,8 +113,26 @@ Launching the release will:
 
 19. When all the deployments are enabled, click on any of the deployments and test them either with an API call or run a batch job on demand.
 
+### Lab 5: Watson Machine Learning
+1. Follow the instructions in [Watson Model Builder](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/WatsonMachineLearning.pdf). Note you will need to click on the Download button to download the instructions to your machine. Otherwise the hyperlinks in the doucment will not work. 
 
-### Lab 5: Build, Save and Test SparkML models (Zeppelin/Python)
+Goals:
+1. Uploading Data Sets
+2. Introduction to Watson Machine Learning
+3. Optional: Refine Data (?)
+
+### Lab 6: SPSS Modeler in DSX -- consider changing for Lab in Lab Instructions
+1. Follow the instructions in [SPSS Modeler](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/titanic-spss-modeler-edits-local-1.pdf). 
+Note you will need to click on the Download button to download the instructions to your machine. Otherwise the hyperlinks in the document will not work. 
+
+Goals:
+1. Introduction to SPSS Modeler
+
+### Lab 7: Data Refinery 
+1. Follow the instructions in [Data Refinery](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/Data%20Refinery%20Lab_Local_v1.pdf).
+Note you will need to click on the Download button to download the instructions to your machine. Otherwise the hyperlinks in the document will not work. 
+
+### Lab 8: Build, Save and Test SparkML models (Zeppelin/Python)
 1. Navigate to **Assets** view and open **TelcoChurn_Zeppelin** notebook.  
 2. Follow instructions in the notebook.
 
@@ -127,27 +145,6 @@ Review:
 Goals:
 1. Note multiple interpreters
 2. Multiple magics i.e. %sql, %spark.pyspark
-
-### Lab 6: Watson Machine Learning
-1. Follow the instructions in [Watson Model Builder](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/WatsonMachineLearning.pdf). Note you will need to click on the Download button to download the instructions to your machine. Otherwise the hyperlinks in the doucment will not work. 
-
-Goals:
-1. Uploading Data Sets
-2. Introduction to Watson Machine Learning
-3. Optional: Refine Data (?)
-
-### Lab 7: SPSS Modeler in DSX -- consider changing for Lab in Lab Instructions
-1. Follow the instructions in [SPSS Modeler](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/titanic-spss-modeler-edits-local-1.pdf). 
-Note you will need to click on the Download button to download the instructions to your machine. Otherwise the hyperlinks in the document will not work. 
-
-Goals:
-1. Introduction to SPSS Modeler
-
-### Lab 8: Data Refinery 
-1. Follow the instructions in [Data Refinery](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/Data%20Refinery%20Lab_Local_v1.pdf).
-Note you will need to click on the Download button to download the instructions to your machine. Otherwise the hyperlinks in the document will not work. 
-
-
 
 ### Lab 9: Build R models in Jupyter and deploy into Shiny App
 1. Follow the instructions in Lab Instructions/R_in_DSXL.pdf
