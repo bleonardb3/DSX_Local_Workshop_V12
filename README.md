@@ -121,7 +121,7 @@ Goals:
 2. Introduction to Watson Machine Learning
 3. Optional: Refine Data (?)
 
-### Lab 6: SPSS Modeler in DSX -- consider changing for Lab in Lab Instructions
+### Lab 6: SPSS Modeler in DSX 
 1. Follow the instructions in [SPSS Modeler](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/titanic-spss-modeler-edits-local-1.pdf). 
 Note you will need to click on the Download button to download the instructions to your machine. Otherwise the hyperlinks in the document will not work. 
 
@@ -147,7 +147,7 @@ Goals:
 2. Multiple magics i.e. %sql, %spark.pyspark
 
 ### Lab 9: Build R models in Jupyter and deploy into Shiny App
-1. Follow the instructions in Lab Instructions/R_in_DSXL.pdf
+1. Follow the instructions in [R in DSXL](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/R_in_DSXL.pdf)
 
 Review:
 1. Jupyter notebook but R
@@ -167,7 +167,7 @@ Goals:
 
 ### Lab 10: DSXL Data Sources
 
-1. Follow the instructions in Lab Instructions/DSXL_DataSources.pdf
+1. Follow the instructions in [DataSources](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/DSXL_DataSources.pdf)
 
 ### Lab 11: Build, Save and Test Scikit-Learn Models (Jupyter/Python)
 1. Navigate to **Assets** view and open **CreditCardDefault_SkLearn** notebook.  
