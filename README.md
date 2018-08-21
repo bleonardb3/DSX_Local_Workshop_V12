@@ -1,8 +1,6 @@
 # DSX Local Workshop V1.2
 In this workshop you will learn how to develop and deploy applications in DSX Local. The workshop has been divided into several stand-alone parts for those who are interested in a specific development tool or deployment task.
 
-This lab is meant to be instructor-led.  That is, the instructor will explain the objectives of the DSX capabilities covered in each lab, and demonstrate some of those capabilities at the beginning of each lab.
-
 ## Prerequisites
 1. Knowledge of analytics. These labs do not teach you the basics of analytics or how to implement analytics in R, Python and SPSS. The purpose of this workshop is to provide hands-on experience with analytics tools and deployment functions in DSX Local. 
 2. To run this workshop you need an instance of DSX Local V1.2.0.2 or above. 
@@ -10,7 +8,7 @@ This lab is meant to be instructor-led.  That is, the instructor will explain th
 3. Download [DSXL_Demos.zip](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/DSX_Projects/DSXL_Demos.zip?raw=true).
 
 ### Setting up lab projects in DSX Local
-1. Rename the downloaded **DSX_Demos.zip** file and give it a unique name.  For example, add your initials (i.e. DSX_Demos_BB.zip).    *Note: Project names in DSX Local cluster must be unique. When we create a project "from file", the project name is inherited from the file name*.
+1. Rename the downloaded **DSXL_Demos.zip** file and give it a unique name.  For example, add your initials (i.e. DSXL_Demos_BB.zip).    *Note: Project names in DSX Local cluster must be unique. When we create a project "from file", the project name is inherited from the file name*.
 2. Click on https://169.60.117.67/#/?_k=ugwvld to log in to DSX Local. Enter Username and Password, and then click **Sign In**
 3. Click **New Project**.
 > <img src="/img/Welcome_Screen.png"/>
