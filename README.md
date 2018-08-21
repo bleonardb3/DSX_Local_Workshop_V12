@@ -24,7 +24,7 @@ In this workshop you will learn how to develop and deploy applications in DSX Lo
 
 ### Lab 2: Create Batch Script and Test Batch Scoring
 1. You must have completed "Lab 1: Build, Save and Test SparkML Models" before working through this lab.
-2. Navigate the to the **Models** section of the project and click into the saved **Telco_Churn_ML_model**.
+2. Navigate to the **Models** section of the project and click into the saved **Telco_Churn_ML_model**.
 3. Click the **Batch score** tab.
 4. For **Input data set**, select *TelcoModelFeedback.csv*.
 5. For **Output data set**, check **"Local file"** and specify *new_customers_scores.csv*.
