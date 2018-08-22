@@ -105,7 +105,7 @@ Launching the release will:
 Note you will need to click on the Download button to download the instructions to your machine. Otherwise the hyperlinks in the document will not work. 
 
 ### Lab 7: Data Refinery 
-1. Follow the instructions in [Data Refinery](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/Data%20Refinery%20Lab_Local_v1.pdf).
+1. Follow the instructions in [Data Refinery](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/Data%20Refinery%20Lab_Local_v2.pdf).
 Note you will need to click on the Download button to download the instructions to your machine. Otherwise the hyperlinks in the document will not work. 
 
 ### Lab 8: Build, Save and Test SparkML models (Zeppelin/Python)
