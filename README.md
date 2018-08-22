@@ -114,12 +114,9 @@ Note you will need to click on the Download button to download the instructions 
 
 ### Lab 9: Build R models in Jupyter and deploy into Shiny App
 1. Follow the instructions in [R in DSXL](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/R_in_DSXL.pdf)
+Note you will need to click on the Download button to download the instructions to your machine. Otherwise the hyperlinks in the document will not work. 
 
-### Lab 10: DSXL Data Sources
-
-1. Follow the instructions in [DataSources](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/DSXL_DataSources.pdf)
-
-### Lab 11: Build, Save and Test Scikit-Learn Models (Jupyter/Python)
+### Lab 10: Build, Save and Test Scikit-Learn Models (Jupyter/Python)
 1. Navigate to **Assets** view and open **CreditCardDefault_SkLearn** notebook.  
 2. Follow instructions in the notebook.
 
