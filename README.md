@@ -35,7 +35,7 @@ In this workshop you will learn how to develop and deploy applications in DSX Lo
 ![batchscoring](/img/batch_scoring.png?raw=true)
 
 9. Click **Run now**,scroll to the bottom and wait till the status of the job changes to Success.
-10. Verify that the *new_customers_scores.csv* is in the data section of the project.
+10.Verify that the new_customers_scores.csv is in the **Data Sets** section of your project's assets page  
 
 ### Lab 3: Create Model Evaluation Script and Test Evaluation
 1. You must have completed "Lab 1: Build, Save and Test SparkML Models" before working through this lab.
@@ -44,7 +44,7 @@ In this workshop you will learn how to develop and deploy applications in DSX Lo
 4. For the scripts inputs, specify these values.<br/>
 ![model_eval](/img/model_eval.png?raw=true)
 
-5. Click **Advanced Settings** and change the name of the script. For example, you can name it ChurnModelEvalScript. Click Save.
+5. Click **Advanced Settings** and change the File Name of the script. For example, you can name it ChurnModelEvalScript. Also change the Job Name to ChurnModelEvalJob. Click **Save**.
 6. Click **Generate evaluation Script**.
 7. Click **Run now**, scroll down and wait till the status changes to Success. ,br/>
 ![model_eval_job_results](/img/model_eval_job_results.png?raw=true)
