@@ -91,13 +91,11 @@ Launching the release will:
 > <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/DeploymentList.png"/>
 21. Select the API tab 
 > <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/SelectAPI.png"/>
-22. Replace the INSERT_VALUE shown for the International and Dropped input fields with 1.0 and 1.0. and then click on **Submit**
+22. Scroll down the page to the Request block. Replace the value of "INSERT_VALUE" after the "International:" and "Dropped" fields with the values 1.0 and 1.0 without quotes (both are float field) and then click on **Submit** 
 > <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/InsertValue.png"/>
 > <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/ReplaceInsertValue.png"/>
 23. Scroll to the right to see the prediction. 
 > <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/Response.png"/>
-
-When testing the Web service online deployment, a value of "INSERT VALUE" appears after the "Dropped:" and "International" fields. Replace "INSERT VALUE" with the values 1.0 and 1.0 without quotes (both are float field).  
 
 ### Lab 5: Watson Machine Learning
 1. Follow the instructions in [Watson Model Builder](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/WatsonMachineLearning.pdf). Note you will need to click on the Download button to download the instructions to your machine. Otherwise the hyperlinks in the doucment will not work. 
