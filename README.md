@@ -90,7 +90,7 @@ Launching the release will:
 20. For example, let's test the web service deployment with an API call. Select the web service deployment. 
 > <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/DeploymentList.png"/>
 21. Select the API tab 
-> <img src=https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/SelectAPI.png"/>
+> <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/SelectAPI.png"/>
 22. Replace the INSERT_VALUE shown for the International and Dropped input fields with 1.0 and 1.0. and then click on **Submit**
 > <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/InsertValue.png"/>
 > <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/ReplaceInsertValue.png"/>
