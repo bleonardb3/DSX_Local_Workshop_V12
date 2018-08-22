@@ -56,7 +56,7 @@ In this workshop you will learn how to develop and deploy applications in DSX Lo
 ![commit_push](/img/commit_push.png?raw=true)
 3. Specify the **commit message** about the changes you are committing, e.g. "*deploy generated scripts*".
 4. Specify a **version tag**, e.g. *workshop-release*.  A version tag marks a deployment ready version of the project, and identifies a specific verion of the project.
-5. Click **Commit and push**.
+5. Click **Commit and push**. Sign off DSX. Login to DSX as Administrator (same userid with an "a" added)
 6. Navigate to the **Deployment Manager**.  <br/>
 ![deployment_manager](/img/deployment_manager.png?raw=true)
 7. Click the **+** icon to create a project release.
@@ -96,6 +96,7 @@ Launching the release will:
 > <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/ReplaceInsertValue.png"/>
 23. Scroll to the right to see the prediction. 
 > <img src="https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/img/Response.png"/>
+24 Sign off as administrator and sign on as user. 
 
 ### Lab 5: Watson Machine Learning
 1. Follow the instructions in [Watson Model Builder](https://github.com/bleonardb3/DSX_Local_Workshop_V12/blob/master/Lab%20Instructions/WatsonMachineLearning.pdf). Note you will need to click on the Download button to download the instructions to your machine. Otherwise the hyperlinks in the doucment will not work. 
